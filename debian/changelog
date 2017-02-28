@@ -1,3 +1,9 @@
+cifs-utils (2:6.4-1ubuntu1.1) xenial; urgency=low
+
+  * Add pam_cifscreds (LP: #1611816). Patch by David McBride.
+
+ -- Keith Ward <keithjward@outlook.com>  Tue, 28 Feb 2017 14:01:32 -0800
+
 cifs-utils (2:6.4-1ubuntu1) wily; urgency=medium
 
   * Merge from Debian unstable (LP: #1219752). Remaining changes:

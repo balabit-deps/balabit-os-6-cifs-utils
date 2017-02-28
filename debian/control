@@ -10,6 +10,7 @@ Build-Depends: debhelper (>= 9),
 	libkeyutils-dev,
 	libcap-ng-dev [linux-any],
 	libkrb5-dev,
+	libpam0g-dev,
 	libtalloc-dev (>= 1.2.0~git20080616),
 	libwbclient-dev (>= 2:3.6.5-3)
 Standards-Version: 3.9.5
